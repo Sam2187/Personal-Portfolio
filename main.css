@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&display=swap');
+
+
+body {
+	font-family: 'Poppins', sans-serif;
+	color: black;
+	font-size: 15px;
+	margin: 0;
+	padding: 0
+}
+
+
+.nav-list {	
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	display: flex;
+	gap: 30px;
+	justify-content: flex-end;
+	align-items: center;
+	list-style: none;
+	margin-right: 12px;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 1.5px;
+	background-color: transparent
+}
+
+
+.nav-list a:hover {
+	color: pink
+}
+
+
+.nav-list a{
+	text-decoration: none;
+	color: black 
+}
+
+
+.nav-item {
+	margin-right: auto;
+	margin-left: 12px
+}
+
+
+.background {
+	position: absolute;
+	top: 75px
+}
+.background > img {
+	height: 500px;
+	width: 1200px
+}
+
+
+.layout {
+	position: absolute;
+	top: 594px;
+	left: 10px
+}
+.layout > img {
+	height: 85px;
+	width: 580px
+}
+
+
+.inform {
+	position: absolute;
+	top: 80px;
+	left: 1225px
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: Black;
+    text-align: center;
+    height: 50px
+}
+
+
+/**//**//**//**//**//**//**//**//**//**/
+
+
+.nav-item1 {
+	margin-right: auto;
+	margin-left: 12px;
+	padding-top: 15px;
+	padding-left: 10px;
+	text-transform: uppercase;
+	font-size: 18px;
+	font-weight: 400;
+	letter-spacing: 1.5px
+}
+
+
+/**//**//**//**//**//**//**//**//**//**/
+
+
+.fs1 {
+	position: absolute;
+	top: 60px;
+	left: 10px;
+}
+.fs1 > img {
+	height: 315px;
+	width: 1125px
+}
+.fs2 {
+	position: absolute;
+	top: 385px;
+	left: 10px;
+}
+.fs2 > img {
+	height: 315px;
+	width: 1125px
+}
+
+
+.fs3 {
+	position: absolute;
+	top: 735px;
+	left: 10px;
+}
+.fs3 > img {
+	height: 315px;
+	width: 1125px
+}
+.fs4 {
+	position: absolute;
+	top: 1060px;
+	left: 10px;
+}
+.fs4 > img {
+	height: 315px;
+	width: 1125px
+}
+
+
+.fs5 {
+	position: absolute;
+	top: 1410px;
+	left: 10px;
+}
+.fs5 > img {
+	height: 315px;
+	width: 1125px
+}
+.fs6 {
+	position: absolute;
+	top: 1735px;
+	left: 10px;
+}
+.fs6 > img {
+	height: 315px;
+	width: 1125px
+}
+
+
+.fs7 {
+	position: absolute;
+	top: 2085px;
+	left: 10px;
+}
+.fs7 > img {
+	height: 315px;
+	width: 1125px
+}
+.fs8 {
+	position: absolute;
+	top: 2410px;
+	left: 10px;
+}
+.fs8 > img {
+	height: 315px;
+	width: 1125px
+}
+
+
+.fs9 {
+	position: absolute;
+	top: 2760px;
+	left: 10px;
+}
+.fs9 > img {
+	height: 315px;
+	width: 1125px
+}
+.fs10 {
+	position: absolute;
+	top: 3085px;
+	left: 10px;
+}
+.fs10 > img {
+	height: 315px;
+	width: 1125px
+}
+
+
+.fs11 {
+	position: absolute;
+	top: 3435px;
+	left: 10px;
+}
+.fs11 > img {
+	height: 315px;
+	width: 1125px
+}
+.fs12 {
+	position: absolute;
+	top: 3760px;
+	left: 10px;
+}
+.fs12 > img {
+	height: 315px;
+	width: 1125px
+}
+
+/**//**//**//**//**//**//**//**//**//**/
+
+
+.CV1 {
+	position: absolute;
+	top: 15px;
+	left: 235px;
+}
+.CV1 > img {
+	height: 360px;
+	width: 1060px
+}
+.CV2 {
+	position: absolute;
+	top: 375px;
+	left: 235px;
+}
+.CV2 > img {
+	height: 360px;
+	width: 1060px
+}
